@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 void set(int* a, int n, int x)
@@ -26,4 +26,4 @@ int main()
 	int b[10];
 	copy(b, a, 10);
 	return 0;
-}*/
+}

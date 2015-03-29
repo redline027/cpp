@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <deque>
 using namespace std;
 
@@ -60,4 +60,4 @@ int main()
 	tc.add(new time(12, 10));
 	tc.print();	
 	return 0;
-}*/
+}

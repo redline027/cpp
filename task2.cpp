@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main7()
 {
@@ -23,4 +23,4 @@ int main7()
 	for(int i = 0; i<10; i++)
 		delete [] a[i];
 	return 0;
-}*/
+}

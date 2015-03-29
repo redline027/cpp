@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main4()
 {
@@ -33,4 +33,4 @@ int main4()
 	}
 	cout<<res<<endl;
 	return 0;			 
-}*/
+}

@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 
 class string
@@ -61,4 +61,4 @@ int main()
 	s1.print(); 
 	std::cout<<std::endl;
 	return 0;
-}*/
+}

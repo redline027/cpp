@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class stack
@@ -52,4 +52,4 @@ int main()
 	s.push(3);
 	cout<<s.pop()<<endl;
 	return 0;
-}*/
+}

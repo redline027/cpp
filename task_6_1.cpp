@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class rational
@@ -27,4 +27,4 @@ int main()
 	double x = r;
 	cout<<r<<endl;
 	return 0;
-}*/
+}

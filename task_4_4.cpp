@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class time
@@ -34,4 +34,4 @@ int main()
 	};
 	
 	return 0;
-}*/
+}

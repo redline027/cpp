@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <cmath>
 using namespace std;
 int main3()
@@ -13,4 +13,4 @@ int main3()
 	}
 	cout<<res<<endl;
 	return 0;			 
-}*/
+}

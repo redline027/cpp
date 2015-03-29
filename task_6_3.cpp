@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -26,4 +26,4 @@ int main()
 	firstLastSpace(first, last, s);
 	cout<<first<<' '<<last<<endl;
 	return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 struct node
@@ -84,4 +84,4 @@ int main()
 	}
 	t.print();
 	return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 struct list
@@ -33,4 +33,4 @@ int main()
 		delete q;
 	};
 	return 0;
-}*/
+}

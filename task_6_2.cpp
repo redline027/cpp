@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 struct node
@@ -99,4 +99,4 @@ int main()
 	t.print();
 	cout<<(t.find_even() ? "True" : "False")<< endl;
 	return 0;
-}*/
+}

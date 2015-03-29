@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class stack
@@ -66,4 +66,4 @@ int main()
 		cout<<s<<endl;
 	};
 	return 0;
-}*/
+}

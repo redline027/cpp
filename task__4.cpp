@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 bool compare(const char* s1, const char* s2)
@@ -20,4 +20,4 @@ int main()
 	cin.getline(s2, 100);
 	cout<<compare(s1, s2)<<endl;
 	return 0;
-}*/
+}

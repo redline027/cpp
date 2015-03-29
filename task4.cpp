@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 void twice(int *p)
 {
@@ -10,4 +10,4 @@ int main5()
 	twice(&i);
 	cout<<i<<endl;
 	return 0;
-}*/
+}

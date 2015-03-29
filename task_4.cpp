@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main1()
 {
@@ -12,4 +12,4 @@ int main1()
 	}
 	cout<<count<<endl;
 	return 0;			 
-}*/
+}

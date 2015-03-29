@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class stack
@@ -76,4 +76,4 @@ int main()
 	cout<<s.pop()<<endl;
 	cout<<s.product()<<endl;
 	return 0;
-}*/
+}

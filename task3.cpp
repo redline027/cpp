@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 void order(int &x, int &y, int &z)
@@ -22,4 +22,4 @@ int main6()
 	order(x,y,z);
 	cout<<x<<y<<z<<endl;
 	return 0;
-}*/
+}

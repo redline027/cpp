@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class stack
@@ -63,4 +63,4 @@ int main()
 	s.top()++;
 	cout<<s.pop()<<endl;
 	return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 void revers(int *a, int size)
 {
@@ -22,4 +22,4 @@ int main8()
 		cout<<a[i]<<" ";
 	}
 	return 0;
-}*/
+}

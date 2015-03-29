@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 class complex 
@@ -25,4 +25,4 @@ complex operator *(complex c1, complex c2)
 int main()
 {
 	return 0;
-}*/
+}

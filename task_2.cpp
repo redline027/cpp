@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main2()
 {
@@ -12,4 +12,4 @@ int main2()
 	} while (n != 0);
 	cout<<res<<endl;
 	return 0;			 
-}*/
+}

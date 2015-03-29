@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 struct elem
@@ -128,4 +128,4 @@ int main()
 	l.add(17);
 	l.print();
 	return 0;
-}*/
+}
